@@ -1,0 +1,1 @@
+{"name":"o-ufuk-ie","private":true,"scripts":{"test":"playwright test"},"devDependencies":{"@playwright/test":"1.49.1"}}
